@@ -2,92 +2,176 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Privacy Policy</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tappy Toons – EULA</title>
+
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+      line-height: 1.6;
+      max-width: 800px;
+      margin: auto;
+      padding: 20px;
+      color: #222;
+      background: #fff;
+    }
+    h1 {
+      font-size: 28px;
+      margin-bottom: 5px;
+    }
+    h2 {
+      margin-top: 28px;
+      font-size: 20px;
+    }
+    p {
+      margin: 10px 0;
+    }
+    ul {
+      margin: 10px 0 10px 20px;
+    }
+    li {
+      margin: 6px 0;
+    }
+    .meta {
+      color: #666;
+      font-size: 14px;
+    }
+    .divider {
+      margin: 25px 0;
+      border-top: 1px solid #ddd;
+    }
+  </style>
 </head>
+
 <body>
-  <h1>Privacy Policy</h1>
-  <pre>
-END USER LICENSE AGREEMENT (EULA)
 
-Last updated: April 2026
+  <h1>End User License Agreement (EULA)</h1>
+  <p class="meta">Last updated: April 2026</p>
 
-Developer: Bushin Kirill (independent developer, Brazil)
-Contact: brbushinkirill@gmail.com
+  <p>
+    <strong>Developer:</strong> Bushin Kirill (independent developer, Brazil)<br>
+    <strong>Contact:</strong> brbushinkirill@gmail.com
+  </p>
 
-1. LICENSE GRANT
+  <div class="divider"></div>
 
-Tappy Toons is a free educational mobile application for children. The developer grants you a limited, non-exclusive, non-transferable, revocable license to install and use the application on a device you own or control, strictly for personal and non-commercial purposes.
+  <h2>1. License Grant</h2>
+  <p>
+    Tappy Toons is a free educational mobile application for children. 
+    The developer grants you a limited, non-exclusive, non-transferable, revocable license 
+    to install and use the application on a device you own or control, strictly for personal 
+    and non-commercial purposes.
+  </p>
 
-2. INTELLECTUAL PROPERTY
+  <h2>2. Intellectual Property</h2>
+  <p>
+    Tappy Toons and all related content — including graphics, animations, sounds, code, 
+    and design — are the property of Bushin Kirill and are protected by applicable intellectual property laws.
+  </p>
+  <p>
+    “Tappy Toons” is a trademark of Bushin Kirill.
+  </p>
+  <p>
+    You may not copy, reproduce, distribute, modify, or create derivative works based on the application 
+    or its content without prior written permission.
+  </p>
 
-Tappy Toons and all related content — including graphics, animations, sounds, code, and design — are the property of Bushin Kirill and are protected by applicable intellectual property laws.
+  <h2>3. Offline Functionality</h2>
+  <p>
+    The application works fully offline. No internet connection is required for normal use.
+  </p>
+  <p>
+    No data is transmitted automatically or in the background.
+  </p>
 
-“Tappy Toons” is a trademark of Bushin Kirill.
-You may not copy, reproduce, distribute, modify, or create derivative works based on the application or its content without prior written permission.
+  <h2>4. Free Application</h2>
+  <p>
+    Tappy Toons is completely free to use.
+  </p>
+  <p>
+    There are no advertisements, in-app purchases, or subscriptions.
+  </p>
 
-3. OFFLINE FUNCTIONALITY
+  <h2>5. Data and Privacy</h2>
+  <p>
+    The application does not collect personal data.
+  </p>
+  <p>
+    The app may store limited technical information locally on your device for the purpose 
+    of diagnosing errors and improving stability. This information may include:
+  </p>
 
-The application works fully offline. No internet connection is required for normal use.
+  <ul>
+    <li>Device model</li>
+    <li>Android version</li>
+    <li>Application activity logs (e.g., start/stop events, error logs)</li>
+  </ul>
 
-No data is transmitted automatically or in the background.
+  <p>This information:</p>
+  <ul>
+    <li>is stored only on your device</li>
+    <li>is not transmitted automatically</li>
+    <li>is not shared with the developer or third parties without your action</li>
+  </ul>
 
-4. FREE APPLICATION
+  <p>
+    You may choose to manually send logs (for example, via email) when requesting support. 
+    By choosing to send such information, you consent to sharing it with the developer.
+  </p>
 
-Tappy Toons is completely free to use.
-There are no advertisements, in-app purchases, or subscriptions.
+  <p>
+    Logs do not intentionally include personal identifiers such as your name, email address, 
+    or precise location.
+  </p>
 
-5. DATA AND PRIVACY
+  <h2>6. Children’s Privacy</h2>
+  <p>
+    Tappy Toons is designed for young children.
+  </p>
+  <p>
+    The developer does not knowingly collect personal information from children under the age of 13. 
+    The application is designed to respect children’s privacy and minimize data processing.
+  </p>
 
-The application does not collect personal data.
+  <h2>7. Brazilian Data Protection (LGPD)</h2>
+  <p>
+    The application is designed to comply with the Lei Geral de Proteção de Dados 
+    (LGPD — Law No. 13,709/2018).
+  </p>
+  <p>
+    No personal data is collected, processed, stored, or shared by the application.
+  </p>
 
-The app may store limited technical information locally on your device for the purpose of diagnosing errors and improving stability. This information may include:
+  <h2>8. Disclaimer of Warranties</h2>
+  <p>
+    The application is provided “as is” and “as available,” without warranties of any kind, 
+    whether express or implied.
+  </p>
+  <p>
+    The developer does not guarantee that the application will be error-free, uninterrupted, 
+    or free of defects.
+  </p>
 
-device model
-Android version
-application activity logs (e.g., start/stop events, error logs)
+  <h2>9. Limitation of Liability</h2>
+  <p>
+    To the maximum extent permitted by law, the developer shall not be liable for any indirect, 
+    incidental, special, or consequential damages arising from the use of or inability to use the application.
+  </p>
 
-This information:
+  <h2>10. Changes to This Agreement</h2>
+  <p>
+    This Agreement may be updated from time to time.
+  </p>
+  <p>
+    Continued use of the application after changes become effective constitutes acceptance 
+    of the updated terms.
+  </p>
 
-is stored only on your device
-is not transmitted automatically
-is not shared with the developer or third parties without your action
+  <h2>11. Contact</h2>
+  <p>
+    For any questions regarding this Agreement, please contact:<br>
+    brbushinkirill@gmail.com
+  </p>
 
-You may choose to manually send logs (for example, via email) when requesting support. By choosing to send such information, you consent to sharing it with the developer.
-
-Logs do not intentionally include personal identifiers such as your name, email address, or precise location.
-
-6. CHILDREN’S PRIVACY
-
-Tappy Toons is designed for young children.
-
-The developer does not knowingly collect personal information from children under the age of 13. The application is designed to respect children’s privacy and minimize data processing.
-
-7. BRAZILIAN DATA PROTECTION (LGPD)
-
-The application is designed to comply with the Lei Geral de Proteção de Dados (LGPD — Law No. 13,709/2018).
-
-No personal data is collected, processed, stored, or shared by the application.
-
-8. DISCLAIMER OF WARRANTIES
-
-The application is provided “as is” and “as available,” without warranties of any kind, whether express or implied.
-
-The developer does not guarantee that the application will be error-free, uninterrupted, or free of defects.
-
-9. LIMITATION OF LIABILITY
-
-To the maximum extent permitted by law, the developer shall not be liable for any indirect, incidental, special, or consequential damages arising from the use of or inability to use the application.
-
-10. CHANGES TO THIS AGREEMENT
-
-This Agreement may be updated from time to time.
-
-Continued use of the application after changes become effective constitutes acceptance of the updated terms.
-
-11. CONTACT
-
-For any questions regarding this Agreement, please contact:
-brbushinkirill@gmail.com
-  </pre>
 </body>
 </html>
