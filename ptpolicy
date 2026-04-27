@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tappy Toons – Política de Privacidade</title>
+
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+      line-height: 1.6;
+      max-width: 800px;
+      margin: auto;
+      padding: 20px;
+      color: #222;
+      background: #fff;
+    }
+    h1 {
+      font-size: 28px;
+      margin-bottom: 5px;
+    }
+    h2 {
+      margin-top: 28px;
+      font-size: 20px;
+    }
+    p {
+      margin: 10px 0;
+    }
+    ul {
+      margin: 10px 0 10px 20px;
+    }
+    li {
+      margin: 6px 0;
+    }
+    .meta {
+      color: #666;
+      font-size: 14px;
+    }
+    .divider {
+      margin: 25px 0;
+      border-top: 1px solid #ddd;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1>Política de Privacidade</h1>
+  <p class="meta">Última atualização: abril de 2026</p>
+
+  <p>
+    <strong>Desenvolvedor:</strong> Bushin Kirill (desenvolvedor independente, Brasil)<br>
+    <strong>Contato:</strong> brbushinkirill@gmail.com
+  </p>
+
+  <div class="divider"></div>
+
+  <h2>Resumo</h2>
+  <p>
+    O Tappy Toons não coleta dados pessoais. O aplicativo funciona totalmente offline 
+    e não se comunica com servidores externos durante o uso normal.
+  </p>
+
+  <h2>1. Coleta de Dados</h2>
+  <p>O aplicativo não coleta dados pessoais.</p>
+  <p>Não acessamos nem coletamos:</p>
+
+  <ul>
+    <li>Nome, e-mail ou informações de identidade</li>
+    <li>Dados de localização (GPS)</li>
+    <li>Contatos ou agenda</li>
+    <li>Fotos, câmera ou microfone</li>
+    <li>Histórico de navegação ou buscas</li>
+    <li>Identificadores persistentes do dispositivo (como IMEI ou ID de publicidade)</li>
+    <li>Credenciais de contas ou senhas</li>
+  </ul>
+
+  <h2>2. Registros Locais (Logs)</h2>
+  <p>
+    O aplicativo pode armazenar informações técnicas limitadas localmente no seu dispositivo 
+    para fins de diagnóstico e melhoria de estabilidade. Esses registros podem incluir:
+  </p>
+
+  <ul>
+    <li>Modelo do dispositivo</li>
+    <li>Versão do Android</li>
+    <li>Registros de atividade do aplicativo (por exemplo, início/encerramento)</li>
+    <li>Mensagens de erro, caso ocorram</li>
+  </ul>
+
+  <p>Esses dados:</p>
+  <ul>
+    <li>São armazenados apenas no seu dispositivo</li>
+    <li>São mantidos por tempo limitado (até 24 horas)</li>
+    <li>Não são transmitidos automaticamente</li>
+    <li>Não são acessados pelo desenvolvedor sem a sua ação</li>
+  </ul>
+
+  <p>
+    Você pode optar por enviar esses registros manualmente (por exemplo, por e-mail) 
+    ao solicitar suporte. Ao fazer isso, você concorda em compartilhar essas informações 
+    com o desenvolvedor.
+  </p>
+
+  <p>
+    Os registros não têm a intenção de incluir dados pessoais como nome, e-mail 
+    ou localização precisa.
+  </p>
+
+  <h2>3. Serviços de Terceiros</h2>
+  <p>
+    O Tappy Toons não utiliza serviços de análise, redes de publicidade 
+    ou tecnologias de rastreamento de terceiros.
+  </p>
+  <p>
+    O aplicativo não integra SDKs como Google Analytics, Firebase 
+    ou serviços similares.
+  </p>
+
+  <h2>4. Privacidade de Crianças</h2>
+  <p>
+    Este aplicativo foi desenvolvido para crianças.
+  </p>
+  <p>
+    O desenvolvedor não coleta intencionalmente informações pessoais de crianças 
+    menores de 13 anos. O aplicativo foi projetado para minimizar o uso de dados 
+    e proteger a privacidade infantil.
+  </p>
+
+  <h2>5. Brasil — LGPD</h2>
+  <p>
+    Este aplicativo foi projetado para estar em conformidade com a Lei Geral de 
+    Proteção de Dados (Lei nº 13.709/2018).
+  </p>
+  <p>
+    Como o aplicativo não coleta dados pessoais, nenhum dado pessoal é processado, 
+    armazenado ou compartilhado pelo desenvolvedor.
+  </p>
+
+  <h2>6. Direitos do Usuário</h2>
+  <p>
+    Como nenhum dado pessoal é coletado, não há dados para acessar, corrigir ou excluir.
+  </p>
+  <p>
+    Se você tiver dúvidas ou preocupações relacionadas à privacidade, 
+    pode entrar em contato com o desenvolvedor.
+  </p>
+
+  <h2>7. Alterações desta Política</h2>
+  <p>
+    Esta Política de Privacidade pode ser atualizada periodicamente.
+  </p>
+  <p>
+    O uso contínuo do aplicativo após a entrada em vigor das alterações 
+    será considerado como aceitação da versão atualizada.
+  </p>
+
+  <h2>8. Contato</h2>
+  <p>
+    Para dúvidas relacionadas à privacidade:<br>
+    brbushinkirill@gmail.com
+  </p>
+
+</body>
+</html>
